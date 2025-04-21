@@ -1,6 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 #小米天气
 DOMAIN-SUFFIX,weatherapi.market.xiaomi.com
+DOMAIN-SUFFIX,wtradv.market.xiaomi.com
 IP-CIDR,106.120.178.58/32,no-resolve
 
 # MyList
